@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="personal_message">Welcome to my app! My name is Paula and I am new to app devlopment.</string>
+    <string name="my_quote">\"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning.\"</string>
+    <string name="textview">TextView</string>
+    <string name="who">-Rick Cook</string>
+</resources>
